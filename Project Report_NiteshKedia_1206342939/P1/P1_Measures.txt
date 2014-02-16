@@ -1,0 +1,13 @@
+
+Number of triads using SNAP: 
+----------------------------
+2649678
+
+
+Diameter using SNAP:
+-------------------
+14
+
+Average Path Length :
+---------------------
+4.00181

@@ -1,0 +1,16 @@
+Random Graph with 5000 nodes and Average Degree 4:
+--------------------------------------------------
+Average Path Length : 7.09642
+Clustering Coefficient : 0.0006
+
+
+Small World Graph with 5000 nodes and Average Degree 4 and Beta .05: 
+--------------------------------------------------------------------
+Average Path Length : 7.93692
+Clustering Coefficient : 0.553583
+
+
+Prefrential Graph with 5000 nodes and Average Degree 4: 
+-------------------------------------------------------
+Average Path Length : 3.66392
+Clustering Coefficient : 0.0118301

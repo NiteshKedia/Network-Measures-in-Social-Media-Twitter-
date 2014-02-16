@@ -1,0 +1,25 @@
+Average Local Clustering Coefficient using MATLAB script provided in the folder : 
+---------------------------------------------------------------------------------
+.0261
+
+
+
+Global Clustering Coefficient Using SNAP: 
+---------------------------------------------------
+0.0387352
+
+
+
+Top 3 Page Rank Using SNAP: 
+---------------------------
+1st : 2.13346e-006
+2nd : 8.59598e-007
+3rd : 8.65355e-007
+
+
+
+Top 3 EigenVector Centralities Using SNAP:
+------------------------------------------
+1st : 0.00802788
+2nd : 0.006776
+3rd : 0.00124344
